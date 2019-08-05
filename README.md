@@ -16,7 +16,7 @@
 3. Remove "example" from `example.env` (ie file should be named simply `.env`).
 4. Run `ruby tools/console.rb` to open an console and execute any code.
 
-###Resources:
+### Resources:
 * [Official Documentation](https://ruby-doc.org/core-2.5.0/Thread.html)
 * Helpful Gems for concurrency, each with different applicable contexts:
   * [Parallel](https://github.com/grosser/parallel)
