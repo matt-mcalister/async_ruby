@@ -12,7 +12,7 @@
 
 ### In order to practice:
 1. Clone this repo and run `bundle install`
-2. Open the file `example.env` and put in corresponding api keys from [OMDB API]() and [TVDB API]().
+2. Open the file `example.env` and put in corresponding api keys from [OMDB API](http://www.omdbapi.com/) and [TVDB API](https://www.thetvdb.com/).
 3. Remove "example" from `example.env` (ie file should be named simply `.env`).
 4. Run `ruby tools/console.rb` to open an console and execute any code.
 
