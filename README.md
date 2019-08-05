@@ -4,16 +4,10 @@
     a. What does it mean?
     b. Why is this useful?
     c. What are the downsides?
-2. Threads
-    a. Introduce the Thread class
-    b. Show simple example with sleep and puts statements
-    c. Move into real example with searching 3 different apis.
-3. Movie.search_with_threads
-    a. run through current method
-    b. EITHER code along or pair through solution.
-4. ThreadPool overview
-    a. what could be a problem with having a variable number of threads?
-    c. Solution: threadpool.
+2. How do we accomplish Async/Concurrent Programming in Ruby?
+    a. What are threads?
+    b. How do we manage multiple threads?
+    c. How do we limit the number of threads in use?
 
 Resources:
 * [Official Documentation](https://ruby-doc.org/core-2.5.0/Thread.html)
