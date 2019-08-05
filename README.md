@@ -1,9 +1,5 @@
 # Async Ruby
 
-0. Hello me am matt
-    a. Used to be a tcf, now a dev at V+V
-    b. We're going to go over something that I think is fun
-    c. Don't assume that all of the patterns you see here today are in anyway _the_ way to solve a problem. The overall goal for today is to introduce you to the topic of concurrent ruby code. In fact, you'll see some patterns that are definitely not ideal, which I may point out, patterns that I created to create a problem worth solving with Threads.
 1. Overview of Asynchronous Programming
     a. What does it mean?
     b. Why is this useful?
@@ -20,12 +16,11 @@
     c. Solution: threadpool.
 
 Resources:
-
-    * Official Documentation [https://ruby-doc.org/core-2.5.0/Thread.html]
-    * Helpful Gems for concurrency, each with different applicable contexts:
-        * Parallel [https://github.com/grosser/parallel]
-        * Celluloid [https://github.com/celluloid/celluloid]
-        * Sidekiq [https://github.com/mperham/sidekiq/]
-        * Resque [https://github.com/resque/resque]
-        * Delayed Job [https://github.com/collectiveidea/delayed_job]
+* [Official Documentation](https://ruby-doc.org/core-2.5.0/Thread.html)
+* Helpful Gems for concurrency, each with different applicable contexts:
+  * [Parallel](https://github.com/grosser/parallel)
+  * [Celluloid](https://github.com/celluloid/celluloid)
+  * [Sidekiq](https://github.com/mperham/sidekiq/)
+  * [Resque](https://github.com/resque/resque)
+  * [Delayed Job](https://github.com/collectiveidea/delayed_job)
         
