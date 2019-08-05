@@ -1,13 +1,13 @@
 # Async Ruby
 
 1. Overview of Asynchronous Programming
-  a. What does it mean?
-  b. Why is this useful?
-  c. What are the downsides?
+  * What does it mean?
+  * Why is this useful?
+  * What are the downsides?
 2. How do we accomplish Async/Concurrent Programming in Ruby?
-  a. What are threads?
-  b. How do we manage multiple threads?
-  c. How do we limit the number of threads in use?
+  * What are threads?
+  * How do we manage multiple threads?
+  * How do we limit the number of threads in use?
 
 In order to practice:
 1. Clone this repo and run `bundle install`
