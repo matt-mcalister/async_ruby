@@ -1,5 +1,6 @@
 # Async Ruby
 
+### Guiding Questions
 1. Overview of Asynchronous Programming
   * What does it mean?
   * Why is this useful?
@@ -9,13 +10,13 @@
   * How do we manage multiple threads?
   * How do we limit the number of threads in use?
 
-In order to practice:
+### In order to practice:
 1. Clone this repo and run `bundle install`
 2. Open the file `example.env` and put in corresponding api keys from [OMDB API]() and [TVDB API]().
 3. Remove "example" from `example.env` (ie file should be named simply `.env`).
 4. Run `ruby tools/console.rb` to open an console and execute any code.
 
-Resources:
+###Resources:
 * [Official Documentation](https://ruby-doc.org/core-2.5.0/Thread.html)
 * Helpful Gems for concurrency, each with different applicable contexts:
   * [Parallel](https://github.com/grosser/parallel)
